@@ -1,4 +1,4 @@
-# CentraleSupélec-Projects
+# CentraleSupélec-Projets
 Projets de la formation Master Data Science CentraleSupéléc - Openclassrooms
 
 ## Projet 1 : Analysez des données de systèmes éducatifs
